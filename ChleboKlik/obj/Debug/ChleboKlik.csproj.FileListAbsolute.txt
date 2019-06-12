@@ -1,0 +1,6 @@
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\bin\Debug\ChleboKlik.exe.config
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\bin\Debug\ChleboKlik.exe
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\bin\Debug\ChleboKlik.pdb
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\obj\Debug\ChleboKlik.csprojResolveAssemblyReference.cache
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\obj\Debug\ChleboKlik.exe
+C:\Users\chime\Source\Repos\NewRepo\ChleboKlik\ChleboKlik\obj\Debug\ChleboKlik.pdb
